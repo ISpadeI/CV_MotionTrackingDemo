@@ -16,4 +16,4 @@ A copy of the presentation slides accompanying this code demonstration can be ac
 - <b>Hans Oswald A. Ibrahim</b> <br/>
   hans_oswald_ibrahim@dlsu.edu.ph 
   
-  Assets (images and videos) are properties of their respective owners. Reference code attribution is provided in the Jupyter notebook.
+Assets (images and videos) are properties of their respective owners. Reference code attribution is provided in the Jupyter notebook.
