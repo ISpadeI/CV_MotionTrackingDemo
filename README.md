@@ -4,7 +4,7 @@
 ![badge][badge-python]
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
 
-This repository contains [OpenCV](https://opencv.org/) demonstrations of the following algorithms related to motion tracking:
+This repository contains [OpenCV](https://opencv.org/) demonstrations of selected algorithms related to motion tracking:
 - [Mean shift](http://home.ku.edu.tr/mehyilmaz/public_html/mean-shift/00400568.pdf)
 - [Continuously adaptive mean shift (CAMSHIFT)](http://opencv.jp/opencv-1.0.0_org/docs/papers/camshift.pdf)
 - Iterative [Lucas-Kanade algorithm](https://cecas.clemson.edu/~stb/klt/lucas_bruce_d_1981_1.pdf) with [pyramids](http://robots.stanford.edu/cs223b04/algo_tracking.pdf) *(for sparse optical flow)*
@@ -17,9 +17,11 @@ A copy of the presentation slides accompanying this code demonstration can be ac
 ## Authors
 - <b>Mark Edward M. Gonzales</b> <br/>
   mark_gonzales@dlsu.edu.ph <br/>
+  gonzales.markedward@gmail.com <br />
   
 - <b>Hans Oswald A. Ibrahim</b> <br/>
-  hans_oswald_ibrahim@dlsu.edu.ph 
+  hans_oswald_ibrahim@dlsu.edu.ph <br />
+  hans.ibrahim2001@gmail.com
   
 Assets (images and videos) are properties of their respective owners. Reference code attribution is provided in the Jupyter notebook.
 
