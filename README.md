@@ -23,7 +23,7 @@ A copy of the presentation slides accompanying this code demonstration can be ac
   hans_oswald_ibrahim@dlsu.edu.ph <br />
   hans.ibrahim2001@gmail.com
   
-Assets (images and videos) are properties of their respective owners. Reference code attribution is provided in the Jupyter notebook.
+Assets (images and videos) are properties of their respective owners. Reference code attribution is provided in the [Jupyter notebook](https://github.com/memgonzales/opencv-motion-tracking/blob/main/Motion%20Tracking.ipynb).
 
 [badge-jupyter]: https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white
 [badge-python]: https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white
