@@ -1,4 +1,4 @@
-# Motion Tracking
+# Motion Tracking with OpenCV
 
 ![badge][badge-jupyter]
 ![badge][badge-python]
